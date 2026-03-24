@@ -1,0 +1,12 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# VS Code & MicroPico junk
+.vscode/
+.micropico/
+.history/
+
+# OS junk
+Thumbs.db
+.DS_Store
